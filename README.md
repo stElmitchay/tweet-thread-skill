@@ -11,14 +11,14 @@ Give it a topic, product, or announcement — it outputs a numbered, character-a
 ## Install
 
 ```bash
-claude skill install https://github.com/stElmitchay/tweet-thread-skill
+npx skills add stElmitchay/tweet-thread-skill
 ```
 
 Or clone and install locally:
 
 ```bash
 git clone https://github.com/stElmitchay/tweet-thread-skill
-claude skill install ./tweet-thread-skill
+claude skill install ./tweet-thread-skill/skills/tweet-thread
 ```
 
 ## Usage
